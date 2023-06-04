@@ -1,4 +1,14 @@
-### Hi there 👋
+# Welcome to Andy Gibbons' Github 
+![AndyCharicature](https://github.com/AndyGibbons/AndyGibbons/assets/6034448/418e6c3a-0ac3-4e59-9bc4-45e3e9b069d7)
+
+### Hi! How are you today?
+
+Creating this landing page for my Github account is the last task I have to perform to complete the Data Science Bootcamp I have been on since March 2023.
+I have been learning about Python and related data science tools, Machine Learning and a little about AI. But then, who isn't learning about AI at the moment?
+
+I have had a varied career, but I mostly identify as a Software Engineer. I decided to study Data Science to give myself a new challenge and to open up some interesting new opportunities. Time will tell...
+
+I started to compose(?) my own music a couple of years ago. If you like music, you might want to avoid my SoundCloud account, but if your brave you can find it here: https://soundcloud.com/andygibbons
 
 <!--
 **AndyGibbons/AndyGibbons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
