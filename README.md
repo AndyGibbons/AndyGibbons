@@ -1,7 +1,7 @@
 # Welcome to Andy Gibbons' Github 
 ![music](https://github.com/AndyGibbons/AndyGibbons/assets/6034448/5dc85ac3-ac59-4aa0-ac66-b5e7a8b206cc)
 
-### Hi! How are you today?
+## Hi! How are you today?
 
 
 Creating this landing page for my Github account is the last task I have to perform to complete the Data Science Bootcamp I have been on since March 2023.
@@ -11,18 +11,4 @@ I have had a varied career, but I mostly identify as a Software Engineer. I deci
 
 I started to compose(?) my own music a couple of years ago. If you like music, you might want to avoid my SoundCloud account, but if your brave you can find it here: https://soundcloud.com/andygibbons
 
-The image above is of a 
-<!--
-**AndyGibbons/AndyGibbons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can find me on LinkedIn here: https://www.linkedin.com/in/andygibbons/
