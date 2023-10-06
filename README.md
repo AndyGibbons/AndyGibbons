@@ -4,7 +4,8 @@
 ## Hi! How are you today?
 
 
-Creating this landing page for my Github account is the last task I have to perform to complete the Data Science Bootcamp I have been on since March 2023.
+Creating this landing page for my Github account is just a bit of fun.
+
 I have been learning about Python and related data science tools, Machine Learning and a little about AI. But then, who isn't learning about AI at the moment?
 
 I have had a varied career, but I mostly identify as a Software Engineer. I decided to study Data Science to give myself a new challenge and to open up some interesting new opportunities. Time will tell...
